@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am Md Rashedul Alam Anik, currently working as a Software Engineer at the [Enosis Solutions](https://www.enosisbd.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Jayasuriya, currently working as a Software Engineer. I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jayasuriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaya-suriya-480818179/)](https://www.linkedin.com/in/jaya-suriya-480818179/)
 [![Gmail Badge](https://img.shields.io/badge/-suriyashan98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suriyashan98@gmail.com)](mailto:suriyashan98@gmail.com)
